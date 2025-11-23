@@ -1,0 +1,11 @@
+This repository documents my daily progress in learning Full Stack Web Development.  
+Each folder contains Day-wise code, explanations, and practice files covering:
+
+• HTML5 fundamentals  
+• CSS3 styling & layouts  
+• JavaScript ES6 concepts  
+• React development  
+• Node.js, Express & MongoDB  
+• MERN Stack Projects  
+
+The goal is to build a strong foundation and share my journey as a Full Stack & MERN Stack Developer.

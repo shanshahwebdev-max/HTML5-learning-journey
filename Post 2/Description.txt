@@ -1,0 +1,52 @@
+Day 2 – Description (Educational)
+
+(copy this as description.md)
+
+# 📚 Day 2 – HTML Tags, Elements & Attributes
+
+Today I learned three important concepts in HTML:
+
+## 🔹 1. Tags
+Tags tell the browser what type of content is being displayed.  
+Examples: `<p>`, `<h1>`, `<img>`, etc.
+
+Tags usually come in pairs:
+
+<p>This is a paragraph</p> ```
+🔹 2. Elements
+
+An element includes:
+
+opening tag
+
+content
+
+closing tag
+
+Example:
+
+<h1>Welcome to Day 2</h1>
+
+
+This entire line is an HTML element.
+
+🔹 3. Attributes
+
+Attributes give extra information to a tag.
+They are written inside the opening tag.
+
+Example:
+
+<img src="image.png" alt="Example Image">
+
+✔ Summary:
+
+Tags = instruction
+
+Elements = structure
+
+Attributes = additional details
+
+I also practiced using <img> and <a> tags with attributes.
+
+More learning coming soon!

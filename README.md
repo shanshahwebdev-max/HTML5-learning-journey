@@ -62,15 +62,15 @@ Here are the tools & technologies included in this journey:
 
 ## 📂 **Repository Structure**
 📁 WebDev-Learning-Journey
-├── 📁 Day-1
-│ ├── code.html
-│ └── description.md
-├── 📁 Day-2
-│ ├── code.html
-│ └── description.md
-├── 📁 Day-3
-│ ├── code.html
-│ └── description.md
+├── 📁 Post 1
+│ ├── index.html
+│ └── Description.txt
+├── 📁 Post 2
+│ ├── index.html
+│ └── Description.txt
+├── 📁 Post 3
+│ ├── index.html
+│ └── Description.txt
 └── ...
 
 ---

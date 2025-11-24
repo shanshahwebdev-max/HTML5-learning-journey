@@ -19,9 +19,8 @@ This repo contains day-wise folders such as:
 
 Every day contains:
 
-- 📌 A code file (`code.html`, `code.js`, etc.)  
-- 📝 A description (`description.md`)  
-- 🖼️ A CodeSnap screenshot (if needed)  
+- 📌 A code file (`index.html`, `app.js`, etc.)  
+- 📝 A description (`Description.txt`)  
 
 ---
 

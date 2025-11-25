@@ -6,17 +6,6 @@ This project documents my progress as I learn and practice **HTML, CSS, JavaScri
 Each day includes **code examples, notes, and explanations** to help track my growth as a developer.
 
 ---
-
-## 📅 **What This Repository Includes**
-This repo contains day-wise folders such as:
-
-- **Day-1:** HTML Basics  
-- **Day-2:** Tags, Elements & Attributes  
-- **Day-3:** Forms, Inputs, Buttons  
-- **Day-4:** CSS Introduction  
-- **Day-5:** Flexbox / Layouts  
-- **…and many more coming**
-
 Every day contains:
 
 - 📌 A code file (`index.html`, `app.js`, etc.)  

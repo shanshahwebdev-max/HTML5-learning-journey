@@ -2,7 +2,7 @@
 ### By **Code By Shan**
 
 Welcome to my daily Web Development learning repository!  
-This project documents my progress as I learn and practice **HTML, CSS, JavaScript, and the MERN Stack**.  
+This project documents my progress as I learn and practice **HTML5.  
 Each day includes **code examples, notes, and explanations** to help track my growth as a developer.
 
 ---
@@ -15,13 +15,6 @@ Every day contains:
 
 ## 🧠 **Skills I’m Learning**
 - **HTML5** (Structure, tags, SEO basics)  
-- **CSS3** (Layouts, Flexbox, Grid, Animations)  
-- **JavaScript (ES6)**  
-- **React.js**  
-- **Node.js**  
-- **Express.js**  
-- **MongoDB**  
-- **MERN Stack Development**  
 
 ---
 
@@ -32,19 +25,6 @@ Every day contains:
 - Become a professional **MERN Stack Developer**  
 - Help beginners learn step-by-step  
 
----
-
-## 🛠️ **Technologies Used**
-Here are the tools & technologies included in this journey:
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- React  
-- Node.js  
-- Express  
-- MongoDB  
-- Git & GitHub  
 
 ---
 

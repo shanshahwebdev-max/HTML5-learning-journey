@@ -1,0 +1,19 @@
+Day 3 – HTML Headings, Lists & Line Breaks
+
+Today I learned how to structure content inside a webpage using three important HTML features:
+
+1. HTML Headings (h1–h6)
+   Headings are used to show the importance of text.
+   - <h1> is the largest and most important heading
+   - <h6> is the smallest heading
+
+2. HTML Lists
+   Lists help display information clearly.
+   - Ordered List (<ol>) shows items with numbers
+   - Unordered List (<ul>) shows items with bullets
+
+3. Line Break (<br>)
+   The <br> tag is used to break the line without creating a new paragraph.
+
+These concepts help make webpages clean, readable, and well-structured.
+Learning them is an important step in building real websites.
